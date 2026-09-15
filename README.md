@@ -138,7 +138,6 @@ Os principais tipos de teste considerados são:
 | Funcional    | Validar o comportamento esperado das funcionalidades                         |
 | Regressão    | Verificar se alterações impactaram funcionalidades existentes                |
 | Negativo     | Validar comportamentos diante de entradas ou condições inválidas             |
-| Exploratório | Identificar comportamentos não previstos nos cenários inicialmente definidos |
 | E2E          | Validar fluxos completos sob a perspectiva do usuário                        |
 
 ---
